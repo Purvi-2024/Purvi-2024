@@ -31,7 +31,7 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: *(add your LinkedIn link here)*  
+- LinkedIn: https://www.linkedin.com/in/purvi-bamba-37a75131b/ 
 
 ---
 
