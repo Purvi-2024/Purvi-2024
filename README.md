@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi 👋 I'm Purvi  
 
-<!--
-**Purvi-2024/Purvi-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student (2nd Year)  
+💻 Learning Python, Data Structures & Algorithms  
+🤖 Exploring Artificial Intelligence & Machine Learning  
+🎯 Goal: Internship & AI Developer Role  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Tools
+- Python  
+- C / C++  
+- Data Structures & Algorithms  
+- Git & GitHub  
+- Basics of AI & Machine Learning  
+
+---
+
+### 📂 Featured Projects
+- 🔹 **Python Basics** – Core Python concepts & practice programs  
+- 🔹 **DSA in Python** – Arrays, searching & sorting algorithms  
+- 🔹 **Student Management System** – Python mini project (CLI based)  
+
+---
+
+### 🌱 Currently Learning
+- Advanced Python  
+- Problem Solving (DSA)  
+- Machine Learning Fundamentals  
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: *(add your LinkedIn link here)*  
+
+---
+
+⭐ *I believe in learning step-by-step and building strong fundamentals.*
